@@ -1,0 +1,26 @@
+{
+  "name": "ReviewFirst",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZetBe/FindTrend.git",
+  "author": "Seo Heewon <seoheewon123@hufs.ac.kr>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.4.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.9",
+    "@types/react": "^18.2.20",
+    "eslint": "^8.46.0",
+    "eslint-config-next": "^13.4.13",
+    "typescript": "^5.1.6"
+  }
+}
